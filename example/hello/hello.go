@@ -1,8 +1,8 @@
-package hello
+package main
 
 import "fmt"
 
-func sayHello() {
+func main() {
   fmt.Println("Hello")
 }
 
